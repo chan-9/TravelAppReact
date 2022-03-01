@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TravelAppReact/static/css/main.389292bc.css",
+    "main.js": "/TravelAppReact/static/js/main.050f04d4.js",
+    "index.html": "/TravelAppReact/index.html",
+    "main.389292bc.css.map": "/TravelAppReact/static/css/main.389292bc.css.map",
+    "main.050f04d4.js.map": "/TravelAppReact/static/js/main.050f04d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.389292bc.css",
+    "static/js/main.050f04d4.js"
+  ]
+}
